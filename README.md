@@ -1,6 +1,6 @@
 # Gear Design Calculator
 
-This MATLAB script is designed to calculate the factor of safety (FOS) for gears in a two-stage reduction system based on user-provided inputs. The factors considered include tensile strength, Brinell hardness number (BHN), and gear specifications such as the number of teeth on the pinion, module, and overall gear ratio.
+This MATLAB script is designed to calculate the factor of safety (FOS) for gears in a two-stage reduction system for BAJA SAE ATV Vehicle based on user-provided inputs. The factors considered include tensile strength, Brinell hardness number (BHN), and gear specifications such as the number of teeth on the pinion, module, and overall gear ratio.
 
 # Usage
 # Input Prompt: 
